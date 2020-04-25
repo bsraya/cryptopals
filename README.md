@@ -1,1 +1,1 @@
-# [Cryptopals Challanges](http://https://cryptopals.com/)
+# [Cryptopals Challanges](https://cryptopals.com/)
